@@ -1,0 +1,25 @@
+{
+  "name": "lig",
+  "version": "0.0.1",
+  "description": "enjoy football",
+  "keywords": [
+    "yeap"
+  ],
+  "authors": [
+    "Akhtem VELILIAIEV"
+  ],
+  "license": "No",
+  "homepage": "https://github.com/crmsoft/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "jquery-ui": "~1.11.1",
+    "bootstrap": "~3.2.0"
+  }
+}
